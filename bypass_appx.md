@@ -1,4 +1,6 @@
 # windows UWP apps
+### thanks to **[t4rra](https://github.com/t4rra/i-forgor/blob/main/piracy/windows-UWP.md)**
+
 they're a bit complicated but not the worst thing in the world. haven't tested with a wide range of programs. only needed for paid apps
 
 modification of [this](https://titleos.dev/bypassing-microsoft-store-licensing/) guide
